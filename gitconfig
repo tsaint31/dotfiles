@@ -32,3 +32,5 @@
 [user]
 
   useconfigonly = true
+	email = thierry.saintmaxent@decathlon.com
+	name = Thierry Saintmaxent
